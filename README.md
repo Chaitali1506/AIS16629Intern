@@ -13,3 +13,9 @@ use loop,Join a set with a tuple,The update() changes the original set, and does
 7)dictionaries:creation of dictionaries,Dictionary items are ordered, changeable, and do not allow duplicates,Dictionaries cannot have two items with the same key,
 use the len() function,The values in dictionary items can be of any data type,use the dict() constructor to make a dictionary,add item
 8)variable declaration:create variable,to specify the data type of a variable,
+Day2
+1)ifconditions: with 10 examples some examples like i)comparison, greatewr or small no
+2)if else condition:with 10 examples some examples like i)negative,positive number,check statement excuted or not
+3)if elif:with 10 examples some examples like i) check both variable equal or not,check condition
+4)for loop: with 10 examples some examples like i)range ii)sum
+5)while loop:with 10 examples some examples like i) print no ii)incremeant no iii)no divisible by or not
