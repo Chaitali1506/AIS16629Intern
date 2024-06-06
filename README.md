@@ -19,3 +19,8 @@ Day2
 3)if elif:with 10 examples some examples like i) check both variable equal or not,check condition
 4)for loop: with 10 examples some examples like i)range ii)sum
 5)while loop:with 10 examples some examples like i) print no ii)incremeant no iii)no divisible by or not
+Day3:
+1)Break statement:use for and while loop in examples
+2)continue statement:nested list to calculate number
+3)pass statement:calculate range use :loop,function
+4)stastical function:with examples 10 stastical function.
