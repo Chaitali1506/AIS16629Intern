@@ -24,3 +24,4 @@ Day3:
 2)continue statement:nested list to calculate number
 3)pass statement:calculate range use :loop,function
 4)stastical function:with examples 10 stastical function.
+5) logical function:to check 1)even or odd 2)grade 3)sum 4)floor number 5)total no. 6)value of variable 7)value passed 8) add and check condition 9)avg no.10)sq of sum of 2 no.s
