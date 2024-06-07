@@ -25,3 +25,22 @@ Day3:
 3)pass statement:calculate range use :loop,function
 4)stastical function:with examples 10 stastical function.
 5) logical function:to check 1)even or odd 2)grade 3)sum 4)floor number 5)total no. 6)value of variable 7)value passed 8) add and check condition 9)avg no.10)sq of sum of 2 no.s
+Day4:
+numpy1:
+1)create numpy array
+2)type(): This built-in Python function
+3)numpy creating array
+4)numpy array indexing
+5)numpy array slicing
+6)data types
+7)copy vs View
+8)array join
+7) array split
+9)array sort
+numpy2:
+1)data distribution
+2)random permutation
+3) normal distribution
+4)binomial,poisson,uniform,logistic, multinomial,exponential,chi square
+6)unfuc create function,simple arithmatic,log,summations, products,difference,findingDCM,findingGCD,Trignometric,set operations.
+
