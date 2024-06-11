@@ -43,4 +43,15 @@ numpy2:
 3) normal distribution
 4)binomial,poisson,uniform,logistic, multinomial,exponential,chi square
 6)unfuc create function,simple arithmatic,log,summations, products,difference,findingDCM,findingGCD,Trignometric,set operations.
-
+Day5:
+1)series: create series and operation
+2)dataframe:a)dataframe read csv and xlsx file.
+            b)dataframe create using:matrix,dictionary
+3)dataframe operation: value counts,apply,unique,nunique,describe
+4)selection: a) dataframe col,raw selection(loc,iloc)
+             b)conditional selction column add,delete,update index,remove index,
+             c)operation:+,-,/,* between two columns
+5)Missing values:a)Missing values checking
+                 b) Missing value drop by row and by column
+                 c)Missing value fill(mean,meadian)
+             
