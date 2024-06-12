@@ -54,4 +54,50 @@ Day5:
 5)Missing values:a)Missing values checking
                  b) Missing value drop by row and by column
                  c)Missing value fill(mean,meadian)
-             
+Day6:Matplotlib libary
+1)import matplotlib
+2)Matplotlib Pyplot
+3)Matplotlib Plotting
+4)Plotting Without Line
+5)Multiple Points
+6)Plotting without x-points
+7)Matplotlib Markers
+8)Format Strings fmt
+9)Marker Size
+10)Marker Color
+11)use the keyword argument markerfacecolor 
+12)Matplotlib Line
+13)Line Color
+14)Line Width
+15)Multiple Lines
+16)Matplotlib Labels and Title
+17)Set Font Properties for Title and Label
+18)Position the Title
+19)Matplotlib Adding Grid Lines
+20)Specify Which Grid Lines to Display
+21)Matplotlib Subplot
+22)Draw 2 plots on top of each other:
+23)add a title to each plot
+24)Super Title
+25)Matplotlib Scatter
+26)Compare Plots
+27)Color Each Dot
+28)Create a color array
+29)can change the size of the dots 
+30)adjust the transparency of the dots with the alpha argument.
+31)Combine Color Size and Alpha
+32)Matplotlib Bars
+33)Horizontal Bars
+34)Bar Color
+35)Bar Width
+36)Matplotlib Histograms
+37)Matplotlib Pie Charts
+Seaborn library:
+1)Import the Seaborn module 
+2)Plotting a Distplot
+3)Plotting a Distplot Without the Histogram
+4)Scatter Plot
+5)Line Plot
+6)Bar Plot
+7)Histogram:
+8)box plot
