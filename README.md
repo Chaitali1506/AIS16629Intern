@@ -101,3 +101,16 @@ Seaborn library:
 6)Bar Plot
 7)Histogram:
 8)box plot
+Day7:
+1)Numpy Exercise: create array,3x3 matrix,identity matrix,generate random no.,Numpy Indexing and Selection,standard deviation of matrix,
+2)Ecommerece purchases Excercise
+3)SF Salaries Excercise
+Day8:
+Case study:on titanic dataset
+1)Download titanic data
+2)visualisation
+3)Model building
+4)Model evaluation
+same process for Algorithm:knn algorithm,descision algorim
+Day9:
+Dashboard using project data
