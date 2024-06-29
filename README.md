@@ -13,18 +13,21 @@ use loop,Join a set with a tuple,The update() changes the original set, and does
 7)dictionaries:creation of dictionaries,Dictionary items are ordered, changeable, and do not allow duplicates,Dictionaries cannot have two items with the same key,
 use the len() function,The values in dictionary items can be of any data type,use the dict() constructor to make a dictionary,add item
 8)variable declaration:create variable,to specify the data type of a variable,
+
 Day2
 1)ifconditions: with 10 examples some examples like i)comparison, greatewr or small no
 2)if else condition:with 10 examples some examples like i)negative,positive number,check statement excuted or not
 3)if elif:with 10 examples some examples like i) check both variable equal or not,check condition
 4)for loop: with 10 examples some examples like i)range ii)sum
 5)while loop:with 10 examples some examples like i) print no ii)incremeant no iii)no divisible by or not
+
 Day3:
 1)Break statement:use for and while loop in examples
 2)continue statement:nested list to calculate number
 3)pass statement:calculate range use :loop,function
 4)stastical function:with examples 10 stastical function.
 5) logical function:to check 1)even or odd 2)grade 3)sum 4)floor number 5)total no. 6)value of variable 7)value passed 8) add and check condition 9)avg no.10)sq of sum of 2 no.s
+
 Day4:
 numpy1:
 1)create numpy array
@@ -37,12 +40,14 @@ numpy1:
 8)array join
 7) array split
 9)array sort
+
 numpy2:
 1)data distribution
 2)random permutation
 3) normal distribution
 4)binomial,poisson,uniform,logistic, multinomial,exponential,chi square
 6)unfuc create function,simple arithmatic,log,summations, products,difference,findingDCM,findingGCD,Trignometric,set operations.
+
 Day5:
 1)series: create series and operation
 2)dataframe:a)dataframe read csv and xlsx file.
@@ -54,6 +59,7 @@ Day5:
 5)Missing values:a)Missing values checking
                  b) Missing value drop by row and by column
                  c)Missing value fill(mean,meadian)
+                 
 Day6:Matplotlib libary
 1)import matplotlib
 2)Matplotlib Pyplot
@@ -101,10 +107,12 @@ Seaborn library:
 6)Bar Plot
 7)Histogram:
 8)box plot
+
 Day7:
 1)Numpy Exercise: create array,3x3 matrix,identity matrix,generate random no.,Numpy Indexing and Selection,standard deviation of matrix,
 2)Ecommerece purchases Excercise
 3)SF Salaries Excercise
+
 Day8:
 Case study:on titanic dataset
 1)Download titanic data
