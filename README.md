@@ -48,7 +48,7 @@ numpy2:
 4)binomial,poisson,uniform,logistic, multinomial,exponential,chi square
 6)unfuc create function,simple arithmatic,log,summations, products,difference,findingDCM,findingGCD,Trignometric,set operations.
 
-Day5:
+**Day5:**
 1)series: create series and operation
 2)dataframe:a)dataframe read csv and xlsx file.
             b)dataframe create using:matrix,dictionary
