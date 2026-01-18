@@ -1,7 +1,9 @@
 # AIS16629Intern
 Day1:
 1)List:list creation,append,insert,pop,list with mixed datatypes,nested list,accesing list using index number,change the value of specific item in list,
+
 list length,extend,remove specific item,sorting order of element
+
 2)Tuple:tuple creation,allow duplicate values,negative indexing,range og negative indexing,loop through tuple
 3)string:display string using print,assign multiple string,get character position,we use loop like for,return a range of characters by using the slice syntax,
 The upper() method returns the string in upper case
